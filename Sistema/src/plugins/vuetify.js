@@ -1,49 +1,22 @@
-import Vue from 'vue'
-import {
-  Vuetify,
-  VApp,
-  VNavigationDrawer,
-  VFooter,
-  VList,
-  VBtn,
-  VIcon,
-  VGrid,
-  VToolbar,
-  VCard,
-  VDivider,
-  VDialog,
-  VTextField,
-  VDataTable,
-  VSelect,
-  transitions
-} from 'vuetify'
-import 'vuetify/src/stylus/app.styl'
+import { createVuetify } from 'vuetify'
+import 'vuetify/styles' // Importa los estilos de Vuetify
 
-Vue.use(Vuetify, {
-  components: {
-    VApp,
-    VNavigationDrawer,
-    VFooter,
-    VList,
-    VBtn,
-    VIcon,
-    VGrid,
-    VToolbar,
-    VCard,
-    VDivider,
-    VDialog,
-    VTextField,
-    VDataTable,
-    VSelect,
-    transitions
-  },
+const vuetify = createVuetify({
   theme: {
-    primary: '#1976D2',
-    secondary: '#424242',
-    accent: '#82B1FF',
-    error: '#FF5252',
-    info: '#2196F3',
-    success: '#4CAF50',
-    warning: '#FFC107'
-  },
+    themes: {
+      light: {
+        colors: {
+          primary: '#1976D2',
+          secondary: '#424242',
+          accent: '#82B1FF',
+          error: '#FF5252',
+          info: '#2196F3',
+          success: '#4CAF50',
+          warning: '#FFC107'
+        }
+      }
+    }
+  }
 })
+
+export default vuetify

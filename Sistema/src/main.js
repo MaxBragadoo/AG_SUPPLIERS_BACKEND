@@ -1,16 +1,16 @@
-import '@babel/polyfill'
-import Vue from 'vue'
-import './plugins/vuetify'
+import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
 import axios from 'axios'
+import vuetify from './plugins/vuetify' 
 
-Vue.config.productionTip = false
-axios.defaults.baseURL='http://localhost:52755'
+axios.defaults.baseURL = 'http://localhost:52755'
 
-new Vue({
-  router,
-  store,
-  render: h => h(App)
-}).$mount('#app')
+const app = createApp(App)
+app.use(router)
+app.use(store)
+app.use(vuetify) // Usa la instancia de Vuetify creada en el archivo `vuetify.js`
+app.config.globalProperties.$axios = axios // Configura axios globalmente si es necesario
+
+app.mount('#app')
