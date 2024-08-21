@@ -20,3 +20,11 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Visual Studio
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
