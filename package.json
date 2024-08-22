@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-{
-  "dependencies": {
-    "cors": "^2.8.5"
-  }
-}
-=======
 {
   "name": "sistema",
   "version": "0.1.0",
@@ -25,7 +18,8 @@
     "vue-router": "^4.2.2",
     "vuetify": "^3.7.0-beta.1",
     "vuex": "^4.0.2",
-    "webpack": "^5.93.0"
+    "webpack": "^5.93.0",
+    "cors": "^2.8.5"
   },
   "devDependencies": {
     "@babel/core": "^7.21.4",
@@ -50,4 +44,3 @@
     "not ie <= 11"
   ]
 }
->>>>>>> 14c4c77cf094d976c32c359b20e8db4667414035
