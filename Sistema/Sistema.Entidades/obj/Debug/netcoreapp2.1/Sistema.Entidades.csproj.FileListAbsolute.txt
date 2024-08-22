@@ -52,3 +52,14 @@ C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.
 C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
 C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
 C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.sourcelink.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb

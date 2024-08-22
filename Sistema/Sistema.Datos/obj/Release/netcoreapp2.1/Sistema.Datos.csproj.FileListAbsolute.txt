@@ -42,3 +42,20 @@ C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Siste
 C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.dll
 C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.pdb
 C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.genruntimeconfig.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\bin\Release\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.AssemblyReference.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.sourcelink.json
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema..9F9C34FB.Up2Date
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\Max Bragado\Documents\MAC\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Datos\obj\Release\netcoreapp2.1\Sistema.Datos.genruntimeconfig.cache
