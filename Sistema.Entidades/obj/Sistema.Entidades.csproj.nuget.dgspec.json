@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max Bragado\\Documents\\MAC\\00_Sistema_AG_Aviation_Suppliers_SLP\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {}
+    "C:\\Users\\Max Bragado\\AG_SUPPLIERS_BACKEND\\Sistema.Entidades\\Sistema.Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max Bragado\\Documents\\MAC\\00_Sistema_AG_Aviation_Suppliers_SLP\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj": {
+    "C:\\Users\\Max Bragado\\AG_SUPPLIERS_BACKEND\\Sistema.Entidades\\Sistema.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max Bragado\\Documents\\MAC\\00_Sistema_AG_Aviation_Suppliers_SLP\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Max Bragado\\AG_SUPPLIERS_BACKEND\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "projectName": "Sistema.Entidades",
-        "projectPath": "C:\\Users\\Max Bragado\\Documents\\MAC\\00_Sistema_AG_Aviation_Suppliers_SLP\\Sistema\\Sistema.Entidades\\Sistema.Entidades.csproj",
+        "projectPath": "C:\\Users\\Max Bragado\\AG_SUPPLIERS_BACKEND\\Sistema.Entidades\\Sistema.Entidades.csproj",
         "packagesPath": "C:\\Users\\Max Bragado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max Bragado\\Documents\\MAC\\00_Sistema_AG_Aviation_Suppliers_SLP\\Sistema\\Sistema.Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Max Bragado\\AG_SUPPLIERS_BACKEND\\Sistema.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
